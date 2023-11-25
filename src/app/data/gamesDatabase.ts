@@ -27,11 +27,11 @@ export const gamesDatabase: games[] = [
             },
             {
                 elementoTipo: 'p',
-                elementoConteudo: 'The last of us part ll possui mais de 60 opções de acessibilidade com foco em audição e habilidade motora, além de novidades que beneficiam jogadores cegos ou com baixa visão.' 
+                elementoConteudo: 'The last of us part ll possui mais de 60 opções de acessibilidade com foco em audição e habilidade motora, além de novidades que beneficiam jogadores cegos ou com baixa visão.'
             },
             {
                 elementoTipo: 'img',
-                elementoConteudo: 'https://live.staticflickr.com/65535/49985544998_06b3e714ba_k.jpg',
+                elementoConteudo: 'https://i.imgur.com/a8yMwnT.jpg',
                 elementoAcessibilidade: 'Imagem do jogo The Last of Us II, com a personagen Ellie em local fechado com uma seta em branco em  sua frente.'
             },
             {
@@ -143,7 +143,7 @@ export const gamesDatabase: games[] = [
             {
                 elementoTipo: 'P',
                 elementoConteudo: 'Opções: Desabilitado (Branco), Ciano, Verde, Amarelo, Rosa, Laranja, Roxo, Azul.  Com esta opção a legenda do jogo fica bem mais nítidas.'
-                
+
             },
             {
                 elementoTipo: 'video',
@@ -169,7 +169,7 @@ export const gamesDatabase: games[] = [
                 elementoTipo: 'p',
                 elementoConteudo: 'Reproduz sons adicionais (ou informações direcionais faladas) que correspondam a diversas ações de combate e travessia. (você pode selecionar os áudios disponíveis).'
             }
-            
+
         ]
     },
     {
